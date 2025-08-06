@@ -13,12 +13,12 @@ The goal of this project is to apply real-world data analysis techniques to a da
 
 **Tools & Technologies Used**
 
-***Python*** (pandas, numpy, seaborn, matplotlib, plotly)
-*****JupyterNotebook***
-***SQL***
-***Excel***
-***IBM Cognos Analytics***
-***Data Visualization*** (Tableau or Power BI if applicable)
+- Python (pandas, numpy, seaborn, matplotlib, plotly)
+- JupyterNotebook
+- SQL
+- Excel
+- IBM Cognos Analytics
+- Data Visualization (Tableau or Power BI if applicable)
 
 **Key Highlights**
 
@@ -40,4 +40,4 @@ This project was completed as part of the **IBM Data Analyst Professional Certif
 - Dashboard creation and presentation skills
 
 **Author**
-Sujan Shrestha
+-Sujan Shrestha
