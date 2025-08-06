@@ -1,6 +1,7 @@
 **Data Analyst Capstone Project**
 
-This repository contains the capstone and practical project work completed as part of the **IBM Data Analyst Professional Certificate** course on **Coursera**. The project showcases various data analysis skills including data wrangling, exploratory data analysis (EDA), data visualization, and communicating insights through dashboards and reports.
+This repository contains the capstone and practical project work completed as part of the **IBM Data Analyst Professional Certificate** course on **Coursera**. 
+The project showcases various data analysis skills including data wrangling, exploratory data analysis (EDA), data visualization, and communicating insights through dashboards and reports.
 
 **Project Overview**
 
@@ -12,12 +13,12 @@ The goal of this project is to apply real-world data analysis techniques to a da
 
 **Tools & Technologies Used**
 
-*Python* (pandas, numpy, seaborn, matplotlib, plotly)
-*Jupyter Notebook*
-*SQL*
-*Excel*
-*IBM Cognos Analytics*
-*Data Visualization* (Tableau or Power BI if applicable)
+***Python*** (pandas, numpy, seaborn, matplotlib, plotly)
+*****JupyterNotebook***
+***SQL***
+***Excel***
+***IBM Cognos Analytics***
+***Data Visualization*** (Tableau or Power BI if applicable)
 
 **Key Highlights**
 
