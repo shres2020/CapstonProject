@@ -29,8 +29,7 @@ The goal of this project is to apply real-world data analysis techniques to a da
 
 **Dataset**
 > The dataset used in this project is publicly available and was provided as part of the IBM Data Analyst Capstone on Coursera. 
-
-Course Information
+**Course Information**
 
 This project was completed as part of the **IBM Data Analyst Professional Certificate** offered by **IBM via Coursera**. The course covers:
 - Data analysis basics
@@ -39,5 +38,5 @@ This project was completed as part of the **IBM Data Analyst Professional Certif
 - Data visualization tools
 - Dashboard creation and presentation skills
 
-Author
+**Author**
 Sujan Shrestha
